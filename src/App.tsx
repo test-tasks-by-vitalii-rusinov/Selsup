@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 interface Param {
   id: number;
   name: string;
